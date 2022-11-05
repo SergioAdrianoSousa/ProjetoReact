@@ -1,3 +1,12 @@
+#Projeto React - Disciplina de Desenvolvimento Multi-plataforma
+
+- Sorteio de números aleatórios;
+
+- Relógio local;
+
+- Lista aleatória de usuários cadastrados.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
